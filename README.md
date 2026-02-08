@@ -1,6 +1,6 @@
 # Hey, I'm Iliyan 👋
 
-CS student from Bulgaria. I like building things for the web and occasionally mess around with data science and hardware projects.
+CS student at University College Cork, originally from Bulgaria. I like building things for the web and occasionally mess around with data science and hardware projects.
 
 Mostly working with **TypeScript**, **React/Next.js**, **C#/.NET**, and **Python** these days.
 
