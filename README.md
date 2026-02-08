@@ -26,4 +26,9 @@ Mostly working with **TypeScript**, **React/Next.js**, **C#/.NET**, and **Python
 
 ### Get in touch
 
-<a href="https://www.linkedin.com/in/iliyan-muradilov-773976242/">LinkedIn</a> · <a href="https://twitter.com/iliyanCoding">X</a> · <a href="https://instagram.com/iliyan.muradilov">Instagram</a> · <a href="mailto:iliyan.programirane@gmail.com">iliyan.programirane@gmail.com</a>
+<p>
+  <a href="https://www.linkedin.com/in/iliyan-muradilov-773976242/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/iliyanCoding"><img src="https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://instagram.com/iliyan.muradilov"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:iliyan.programirane@gmail.com"><img src="https://img.shields.io/badge/iliyan.programirane@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
