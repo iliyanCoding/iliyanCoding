@@ -1,20 +1,56 @@
-<h1 align="center">Hi 👋, I'm Iliyan - aka ilkata</h1>
-<h3 align="center">A passionate student from Bulgaria</h3>
+<h1 align="center">Hi, I'm Iliyan 👋</h1>
+<h3 align="center">CS Student & Developer from Bulgaria</h3>
 
-- 🌱 I’m currently learning: **C#**
+<p align="center">I build web applications with modern frameworks and enjoy exploring everything from full-stack development to data science and embedded systems.</p>
 
-- 📫 How to reach me: **iliyan.programirane@gmail.com**
+---
 
-- 🥅 2022 Goals: **Become a full stack devoloper**
+### 🛠 What I work with
 
-- ⚡ Hobby: **I love to workout and hang out with friends** 
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iliyanCoding" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97783740/169658249-eab2fd11-1130-4729-a4c4-9759bf9c961c.png" alt="iliyanCoding" height="32" width="32" /></a>
-<a href="https://www.linkedin.com/in/iliyan-muradilov-773976242/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97783740/169655216-657e260b-a971-44ed-9e2c-52fcba72954c.png" alt="iliyan muradilov" height="32" width="32" /></a>
-<a href="https://instagram.com/iliyan.muradilov" target="blank"><img align="center" src="https://user-images.githubusercontent.com/97783740/169657937-4ca20fc6-e91d-475c-ac2d-c21110a3702f.png" alt="iliyan.muradilov" height="32" width="32" /></a>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-<h3 align="left">Languages and Frameworks:</h3>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97783740/170877386-e79c36be-c77a-46af-89d8-8e1bba576f52.png" alt="dotnet" width="40" height="40"/> </a> <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97783740/174045990-7e313e95-b1b7-40c8-a3c8-7b277822098b.png" alt="html" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/97783740/174046446-e5e74743-f451-49a2-a877-d493d6734a8b.png" alt="css" width="40" height="40"/> </a> <br>
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**WatchHeaven**](https://github.com/iliyanCoding/WacthHeaven) | Luxury watch marketplace with real-time features | ASP.NET Core, SignalR, SQL Server |
+| [**NBAdle**](https://github.com/iliyanCoding/nbadle) | NBA Wordle-style daily guessing game | React |
+| [**SIR Model**](https://github.com/iliyanCoding/SIR-Model) | Epidemiological disease spread simulation | Python, NumPy, SciPy |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iliyanCoding&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliyanCoding&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iliyanCoding&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/iliyan-muradilov-773976242/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/iliyanCoding" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/iliyan.muradilov" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:iliyan.programirane@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
