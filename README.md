@@ -24,10 +24,6 @@ Mostly working with **TypeScript**, **React/Next.js**, **C#/.NET**, and **Python
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </p>
 
-### Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=iliyanCoding&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="150" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliyanCoding&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" height="150" />
-
 ### Get in touch
 
 <a href="https://www.linkedin.com/in/iliyan-muradilov-773976242/">LinkedIn</a> · <a href="https://twitter.com/iliyanCoding">X</a> · <a href="https://instagram.com/iliyan.muradilov">Instagram</a> · <a href="mailto:iliyan.programirane@gmail.com">iliyan.programirane@gmail.com</a>
