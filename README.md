@@ -9,6 +9,7 @@ Mostly working with **TypeScript**, **React/Next.js**, **C#/.NET**, and **Python
 - [**WatchHeaven**](https://github.com/iliyanCoding/watch-heaven) — a watch marketplace built with ASP.NET Core, SignalR for real-time updates, and SQL Server
 - [**NBAdle**](https://github.com/iliyanCoding/nbadle) — an NBA guessing game inspired by Wordle, built with React
 - [**SIR Model**](https://github.com/iliyanCoding/sir-model) — simulating disease spread with Python and SciPy
+- [**Basketball Scouting Platform**] - a basketball scouting tool built with Flask and Bootstrap
 
 ### Tech I use
 
