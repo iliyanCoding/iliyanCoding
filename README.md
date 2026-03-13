@@ -28,7 +28,7 @@ Mostly working with **TypeScript**, **React/Next.js**, **C#/.NET**, and **Python
 ### Most Used Languages
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliyanCoding&layout=compact&theme=default&hide=Jupyter%20Notebook" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliyanCoding&layout=compact&theme=dark&hide=Jupyter%20Notebook" />
 </p>
 
 ### Get in touch
