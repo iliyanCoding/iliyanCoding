@@ -6,9 +6,9 @@ Mostly working with **TypeScript**, **React/Next.js**, **C#/.NET**, and **Python
 
 ### Some things I've built
 
-- [**WatchHeaven**](https://github.com/iliyanCoding/WacthHeaven) — a watch marketplace built with ASP.NET Core, SignalR for real-time updates, and SQL Server
+- [**WatchHeaven**](https://github.com/iliyanCoding/watch-heaven) — a watch marketplace built with ASP.NET Core, SignalR for real-time updates, and SQL Server
 - [**NBAdle**](https://github.com/iliyanCoding/nbadle) — an NBA guessing game inspired by Wordle, built with React
-- [**SIR Model**](https://github.com/iliyanCoding/SIR-Model) — simulating disease spread with Python and SciPy
+- [**SIR Model**](https://github.com/iliyanCoding/sir-model) — simulating disease spread with Python and SciPy
 
 ### Tech I use
 
@@ -22,6 +22,12 @@ Mostly working with **TypeScript**, **React/Next.js**, **C#/.NET**, and **Python
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
+
+### Most Used Languages
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliyanCoding&layout=compact&theme=default&hide=Jupyter%20Notebook" />
 </p>
 
 ### Get in touch
