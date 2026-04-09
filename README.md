@@ -25,12 +25,6 @@ Mostly working with **TypeScript**, **React/Next.js**, **C#/.NET**, and **Python
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </p>
 
-### Most Used Languages
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliyanCoding&layout=compact&theme=dark&hide=Jupyter%20Notebook" />
-</p>
-
 ### Get in touch
 
 <p>
